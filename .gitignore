@@ -1,0 +1,17 @@
+# Bỏ qua các file dữ liệu và model AI nặng
+/data/The Movies Dataset/
+/data/dqn_movie_rec_weights.weights.h5
+
+# Bỏ qua file môi trường chứa mật khẩu (Rất quan trọng!)
+.env
+
+# Bỏ qua các thư mục môi trường ảo Python
+backend/venv/
+frontend/venv/
+
+# Bỏ qua các file cache và file biên dịch của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua các file log (nếu có)
+*.log

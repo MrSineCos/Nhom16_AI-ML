@@ -1,0 +1,13 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+pandas
+numpy==1.26.4
+scikit-learn
+tensorflow
+surprise
+gunicorn
+psycopg2-binary
+sqlalchemy
+python-dotenv
+tqdm  # <-- THÊM DÒNG NÀY
